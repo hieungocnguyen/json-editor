@@ -1,0 +1,118 @@
+{
+  "name": "msd",
+  "type": "landing-page",
+  "data": {
+    "VN": {
+      "title": "MSD",
+      "short_decription": "",
+      "meta_title": "MSD",
+      "preOrderTime": "2023-11-23T12:30:00.000+0000",
+      "meta_description": "Discover Vietnam's potential as a thriving hub for the entrepreneurial Vietnamese diaspora who embrace a deep root in their heritage. Join us for a special \"homecoming\" reunion, where distinguished returnees from cross industries share with us their personal narratives and valuable insights into the opportunities and challenges that lie ahead in Vietnam's dynamic business landscape.",
+      "meta_image": "https://img.vietcetera.com/uploads/images/01-nov-2023/20231025-kv-ov-homecoming.jpg",
+      "action": null,
+      "hide_nav": false,
+      "nav_section": [
+        {
+          "key": "section_article",
+          "value": "Articles",
+          "name": "article_section"
+        },
+        {
+          "key": "section_shorts",
+          "value": "Short news",
+          "name": "shorts_section"
+        },
+        {
+          "key": "section_video",
+          "value": "Video",
+          "name": "video_section"
+        },
+        {
+          "key": "section_social",
+          "value": "Social post",
+          "name": "social_section"
+        },
+        {
+          "key": "section_podcast",
+          "value": "Podcasts",
+          "name": "podcast_section"
+        }
+      ],
+      "top_banner_section": {
+        "image": "https://img.vietcetera.com/uploads/images/01-dec-2023/banner-msd-resize-1-1701404648411.png",
+        "referenece": {
+          "link": ""
+        }
+      },
+      "middle_banner_section": {
+        "image": "https://img.vietcetera.com/uploads/images/08-dec-2023/middle-msd-banner.jpg",
+        "referenece": {
+          "link": ""
+        }
+      },
+      "article_section": {
+        "title": "Articles",
+        "tagSlug": "msd"
+      },
+      "shorts_section": {
+        "shortVideos": [
+          {
+            "snippet": {
+              "title": "",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            "contentDetails": {
+              "videoId": "789886366227445",
+              "videoPublishedAt": "2023-09-17T13:00:15Z"
+            },
+            "type": "facebook"
+          },
+          {
+            "snippet": {
+              "title": "",
+              "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+            },
+            "contentDetails": {
+              "videoId": "440630028264050"
+            },
+            "type": "facebook"
+          }
+        ]
+      },
+      "social_section": {},
+      "video_section": {
+        "videoSlug": "",
+        "videoDetail": {
+          "kind": "youtube#playlistItem",
+          "etag": "3vzlhXJLmF0lOL-rJwrvK5QiTUY",
+          "id": "VVVPUndWbnBoN1RLNnJteUtvemtWOF9nLnViTklaLVIxdndv",
+          "snippet": {
+            "publishedAt": "2023-12-08T03:38:45Z",
+            "channelId": "UCORwVnph7TK6rmyKozkV8_g",
+            "title": "Vietcetera in 60s",
+            "description": "Xin chào, chúng mình là Vietcetera!\n\nVietcetera mang đến các khán giả kho tàng nội dung chất lượng cao, xoay quanh những câu chuyện độc đáo về nghệ thuật, văn hóa, kinh doanh cho đến những cuộc trò chuyện sâu sắc cùng những khách mời tri thức, thành công và sáng tạo.\n\nTại đây, bạn có thể cùng Vietcetera lan toả những nội dung hữu ích, tích cực và truyền cảm hứng, cùng khám phá và kết nối với cộng đồng. \n\nĐừng quên đăng ký theo dõi Vietcetera để không bỏ lỡ nội dung nào: https://www.youtube.com/@Vietcetera\n------------------------------\nTải app Vietcetera tại đây nhé: \n► iOS: https://share.vietcetera.com/Appstore\n► Android: https://share.vietcetera.com/GooglePlay\n\nVà đừng quên kết nối với Vietcetera qua các mạng xã hội khác nữa:\n● Facebook: https://share.vietcetera.com/Facebook\n● Instagram: https://share.vietcetera.com/Instagram\n● Linkedin:\n- VN: https://share.vietcetera.com/Linkedin-VN\n- EN: https://share.vietcetera.com/Linkedin\n● Tiktok: https://share.vietcetera.com/Tiktok-Advice\n● Twitter: https://share.vietcetera.com/Twitter\n\n#Vietcetera #Podcast #Vietcetera_Podcast",
+            "channelTitle": "Vietcetera",
+            "playlistId": "UUORwVnph7TK6rmyKozkV8_g",
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "ubNIZ-R1vwo"
+            },
+            "videoOwnerChannelTitle": "Vietcetera",
+            "videoOwnerChannelId": "UCORwVnph7TK6rmyKozkV8_g"
+          },
+          "contentDetails": {
+            "videoId": "ubNIZ-R1vwo",
+            "videoPublishedAt": "2023-12-08T03:38:45Z"
+          },
+          "status": {
+            "privacyStatus": "public"
+          }
+        }
+      },
+      "podcast_section": {
+        "title": "Podcast",
+        "playlist_id": "6294989916f6bbcc8c1f07f7"
+      }
+    }
+  }
+}
