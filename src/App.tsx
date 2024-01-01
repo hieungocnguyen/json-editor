@@ -1,4 +1,4 @@
-import Editor from "./components/Editor";
+import Editor from "./components/Editor/Editor";
 
 function App() {
   return (
@@ -8,7 +8,8 @@ function App() {
         justifyContent: "center",
         alignItems: "center",
         width:"100vw",
-        height:"100vh"
+        height:"100vh",
+        position:"relative"
       }}
     >
       <Editor />

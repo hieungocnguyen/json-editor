@@ -1,0 +1,29 @@
+.editor-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.button-beautify {
+  padding: 12px;
+  border: 1px white solid;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.button-beautify:hover {
+  background: white;
+  color: #121212;
+}
+
+.sooner-error {
+  padding: 12px 24px;
+  background-color: rgb(255, 61, 61);
+  border-radius: 8px;
+  position: absolute;
+  top: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+}
